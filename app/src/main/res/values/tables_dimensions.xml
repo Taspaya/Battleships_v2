@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="tableWidth">250</integer>
+    <integer name="tableHeight">250</integer>
+
+
+</resources>
